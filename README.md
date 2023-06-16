@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **pedro-dalben/pedro-dalben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![github-contribution-grid-snake](https://github.com/pedro-dalben/pedro-dalben/assets/57180027/a3deeb3a-00d0-40ea-9292-a48a66e30336)

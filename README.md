@@ -19,4 +19,8 @@
 - LinkedIn: [www.linkedin.com/in/pedrodalbendemorais](www.linkedin.com/in/pedrodalbendemorais)
 - E-mail: pedrodalbenmorais@gmail.com
 
-![github-contribution-grid-snake](https://github.com/pedro-dalben/pedro-dalben/assets/57180027/a3deeb3a-00d0-40ea-9292-a48a66e30336)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>

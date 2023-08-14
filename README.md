@@ -19,7 +19,6 @@
 - LinkedIn: [www.linkedin.com/in/pedrodalbendemorais](www.linkedin.com/in/pedrodalbendemorais)
 - E-mail: pedrodalbenmorais@gmail.com
 
-![profile] 
 ![languages]
 
 [profile]: https://github-readme-stats.vercel.app/api?username=pedro-dalben&show_icons=true&theme=omni&count_private=true&hide_border=true

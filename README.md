@@ -11,8 +11,9 @@
 ## Experiência profissional 💼
 
 - Estagiário de programação (Python, SQL, C, C++) na Phi Innovation (set/2018 a fev/2019)
-- Desenvolvedor full stack Vue.js/Rails na Kazap Tecnologia (out/2019 a jun/2021)
-- Líder técnico na Kazap Tecnologia (junho/2024)
+- Desenvolvedor full stack Vue.js/Rails na Kazap Tecnologia (out/2019 a jun/2022)
+- Líder técnico na Kazap Tecnologia (jun/2022 a junho/2024)
+- Desenvolvedor full stack Vue.js/Rails na Appolus Tecnologia (junho/2024)
 
 ## Contato 📫
 

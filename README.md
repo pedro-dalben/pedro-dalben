@@ -19,7 +19,7 @@
 
 ## Contato 📫
 
-- LinkedIn: [www.linkedin.com/in/pedrodalbendemorais](www.linkedin.com/in/pedrodalbendemorais)
+- LinkedIn: [www.linkedin.com/in/pedrodalbendemorais](https://www.linkedin.com/in/pedrodalbenmorais/)
 - E-mail: pedrodalbenmorais@gmail.com
 
 ![languages]

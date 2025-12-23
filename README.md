@@ -1,3 +1,7 @@
+<p align="right">
+  🌍 Read this in:: <a href="README.en.md">English</a>
+</p>
+
 ## 👋 Olá, eu sou o Pedro Dalben
 
 Sou **Desenvolvedor Full Stack** e **CTO**, com mais de **5 anos de experiência** criando sistemas escaláveis, seguros e focados em resolver problemas reais — especialmente na área de **saúde**.

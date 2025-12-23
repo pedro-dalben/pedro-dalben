@@ -1,34 +1,85 @@
-## Habilidades técnicas 🛠️
+## 👋 Olá, eu sou o Pedro Dalben
 
-- Vue.js
+Sou **Desenvolvedor Full Stack** e **CTO**, com mais de **5 anos de experiência** criando sistemas escaláveis, seguros e focados em resolver problemas reais — especialmente na área de **saúde**.
+
+Atualmente atuo como **CTO no Integrar Centro Terapêutico da Baixa Mogiana**, liderando arquitetura, desenvolvimento e decisões técnicas do **IntegrarPlus**, uma plataforma própria para gestão clínica.
+
+💡 Gosto de unir **engenharia de software**, **produto**, **automação** e **IA** para criar soluções sob medida, evitando sistemas genéricos.
+
+---
+
+### 🚀 Status GitHub
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedro-dalben&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-dalben&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+**Back-end**
 - Ruby
 - Ruby on Rails
-- JavaScript
 - Python
 - Java
-- Liderença 
 
-## Experiência profissional 💼
+**Front-end**
+- Vue.js
+- JavaScript
+- Hotwire (Turbo + Stimulus)
 
-- Estagiário de programação (Python, SQL, C, C++) na Phi Innovation (set/2018 a fev/2019)
-- Desenvolvedor full stack Vue.js/Rails na Kazap Tecnologia (out/2019 a jun/2022)
-- Líder técnico na Kazap Tecnologia (jun/2022 a junho/2024)
-- Desenvolvedor full stack Vue.js/Rails na Appolus Tecnologia (junho/2024 a junho/2025)
-- CTO na Integrar Centro Terapeutico da Baixa Mogiana (junho/2025)
+**Infra & Arquitetura**
+- Docker
+- PostgreSQL
+- Linux
+- Cloud (OCI)
+- Background Jobs (Sidekiq / Solid Queue)
 
+**Outros**
+- Integrações com APIs
+- Automação
+- Arquitetura de sistemas
+- Liderança técnica e tomada de decisão
 
-## Contato 📫
+---
 
-- LinkedIn: [www.linkedin.com/in/pedrodalbendemorais](https://www.linkedin.com/in/pedrodalbenmorais/)
-- E-mail: pedrodalbenmorais@gmail.com
+## 💼 Experiência Profissional
 
-![languages]
+- **Estagiário de Programação** (Python, SQL, C, C++)  
+  *Phi Innovation* — *set/2018 → fev/2019*
 
-[profile]: https://github-readme-stats.vercel.app/api?username=pedro-dalben&show_icons=true&theme=omni&count_private=true&hide_border=true
-[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-dalben&theme=omni&layout=compact&hide_border=true
+- **Desenvolvedor Full Stack (Vue.js / Rails)**  
+  *Kazap Tecnologia* — *out/2019 → jun/2022*
+
+- **Líder Técnico**  
+  *Kazap Tecnologia* — *jun/2022 → jun/2024*
+
+- **Desenvolvedor Full Stack (Vue.js / Rails)**  
+  *Appolus Tecnologia* — *jun/2024 → jun/2025*
+
+- **CTO**  
+  *Integrar Centro Terapêutico da Baixa Mogiana* — *jun/2025 → atual*
+
+---
+
+## 🌐 Onde me encontrar
+
+- 🌎 Site pessoal: **https://pedrodalben.com.br**
+- 💼 LinkedIn: https://www.linkedin.com/in/pedrodalbenmorais/
+- 📧 E-mail: **pedrodalbenmorais@gmail.com**
+
+---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedro-dalben/pedro-dalben/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedro-dalben/pedro-dalben/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/pedro-dalben/pedro-dalben/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/pedro-dalben/pedro-dalben/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" 
+       src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>

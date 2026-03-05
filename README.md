@@ -2,13 +2,13 @@
   🌍 Read this in:: <a href="README.en.md">English</a>
 </p>
 
-## 👋 Olá, eu sou o Pedro Dalben
+##  Olá, eu sou o Pedro Dalben
 
 Sou **Desenvolvedor Full Stack** e **CTO**, com mais de **5 anos de experiência** criando sistemas escaláveis, seguros e focados em resolver problemas reais — especialmente na área de **saúde**.
 
 Atualmente atuo como **CTO no Integrar Centro Terapêutico da Baixa Mogiana**, liderando arquitetura, desenvolvimento e decisões técnicas do **IntegrarPlus**, uma plataforma própria para gestão clínica.
 
-💡 Gosto de unir **engenharia de software**, **produto**, **automação** e **IA** para criar soluções sob medida, evitando sistemas genéricos.
+Gosto de unir **engenharia de software**, **produto**, **automação** e **IA** para criar soluções sob medida, evitando sistemas genéricos.
 
 ---
 
@@ -18,7 +18,7 @@ Atualmente atuo como **CTO no Integrar Centro Terapêutico da Baixa Mogiana**, l
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## Habilidades Técnicas
 
 **Back-end**
 - Ruby
@@ -46,7 +46,7 @@ Atualmente atuo como **CTO no Integrar Centro Terapêutico da Baixa Mogiana**, l
 
 ---
 
-## 💼 Experiência Profissional
+## Experiência Profissional
 
 - **Estagiário de Programação** (Python, SQL, C, C++)  
   *Phi Innovation* — *set/2018 → fev/2019*
@@ -65,11 +65,11 @@ Atualmente atuo como **CTO no Integrar Centro Terapêutico da Baixa Mogiana**, l
 
 ---
 
-## 🌐 Onde me encontrar
+## Onde me encontrar
 
-- 🌎 Site pessoal: **https://pedrodalben.com.br**
-- 💼 LinkedIn: https://www.linkedin.com/in/pedrodalbenmorais/
-- 📧 E-mail: **pedrodalbenmorais@gmail.com**
+- Site pessoal: **https://pedrodalben.com.br**
+- LinkedIn: https://www.linkedin.com/in/pedrodalbenmorais/
+- E-mail: **pedrodalbenmorais@gmail.com**
 
 ---
 

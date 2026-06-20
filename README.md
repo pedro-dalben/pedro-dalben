@@ -12,7 +12,7 @@ Gosto de unir **engenharia de software**, **produto**, **automação** e **IA** 
 
 ---
 ![Linguagens mais utilizadas](https://github-readme-stats-eta-three-95.vercel.app/api/top-langs?username=pedro-dalben&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=G-code&v=4)
-
+![Pedro's GitHub stats](https://github-readme-stats-eta-three-95.vercel.app/api?username=pedro-dalben&show_icons=true&theme=tokyonight&hide_border=true)
 ---
 
 ## Habilidades Técnicas

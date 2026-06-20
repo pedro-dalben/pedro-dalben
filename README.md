@@ -11,11 +11,10 @@ Atualmente atuo como **CTO no Integrar Centro Terapêutico da Baixa Mogiana**, l
 Gosto de unir **engenharia de software**, **produto**, **automação** e **IA** para criar soluções sob medida, evitando sistemas genéricos.
 
 ---
-
 <div align="center">
   <img
     height="170em"
-    src="github-readme-stats-60qcu6l1o-pedro-dalbens-projects.vercel.app/api/top-langs?username=pedro-dalben&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5"
+    src="https://github-readme-stats-eta-three-95.vercel.app/api/top-langs?username=pedro-dalben&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5"
     alt="Linguagens mais utilizadas no GitHub"
   />
 </div>

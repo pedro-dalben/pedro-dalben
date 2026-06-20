@@ -14,8 +14,8 @@ Gosto de unir **engenharia de software**, **produto**, **automação** e **IA** 
 <div align="center">
   <img
     height="170em"
-    src="https://github-readme-stats-eta-three-95.vercel.app/api/top-langs?username=pedro-dalben&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5"
-    alt="Linguagens mais utilizadas no GitHub"
+    src="https://github-readme-stats-eta-three-95.vercel.app/api/top-langs?username=pedro-dalben&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&size_weight=1&count_weight=0&cache_seconds=21600"
+    alt="Linguagens mais utilizadas nos meus repositórios"
   />
 </div>
 

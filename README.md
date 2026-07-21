@@ -185,12 +185,10 @@ Alguns dos sistemas desenvolvidos:
 
 <div align="center">
   <img
-    height="175"
     src="https://github-readme-stats-eta-three-95.vercel.app/api?username=pedro-dalben&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage&number_format=long"
     alt="Estatísticas do GitHub"
   >
   <img
-    height="175"
     src="https://github-readme-stats-eta-three-95.vercel.app/api/top-langs?username=pedro-dalben&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=G-code&exclude_repo=NeoForge,HuskHomes,FabricAsyncWorldEdit,SuperFactoryManager,material-dashboard,github-readme-stats"
     alt="Linguagens mais utilizadas"
   >
